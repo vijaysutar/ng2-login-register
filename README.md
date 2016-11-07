@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # P3
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.18.
@@ -32,4 +31,4 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
 # ng2-login-register
->>>>>>> 81b8c20d3cf37f115832a4241a564e98f809e782
+
